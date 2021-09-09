@@ -1,0 +1,19 @@
+It's a Data Science practice project with Python
+
+--------------Fraudulent credit card transactions detection--------------------------- 
+--------------------------------------------------------------------------------------
+
+You are a data scientist working for a data analytics firm.  
+                         
+Your firm has tasked you to train several models and evaluate how effectively         
+they predict instances of fraudulent credit card transactions using data based 
+on a dataset from Kaggle.
+
+the data are given in the "fraud_data.csv" file. Each row corresponds to a credit 
+card transaction. Features include confidential variables V1 through V28 
+as well as 'Amount' which is the amount of the transaction.
+
+The target is stored in the 'class' column, where a value of 1 corresponds to an 
+instance of fraud and 0 corresponds to an instance of not fraud.
+
+the diffrent steps taken are indicated in the ipython file
